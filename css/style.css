@@ -1,12 +1,12 @@
 
 html {
-  background-color: #9aeb54;
+  background-color: #294411;
 }
 
 
 h1 {
-  background-color: #538924;
-  color: rgb(27, 60, 9);
+  background-color: #385c19;
+  color: rgb(29, 5, 41);
   padding: 14px 16px;
   margin: 0;
 }
@@ -18,12 +18,18 @@ ul {
     padding: 0;
   }
 
+li {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
   ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #61a129;
+    background-color: #487a1c;
   }
   
   li {
@@ -32,14 +38,14 @@ ul {
   
   li a {
     display: block;
-    color: white;
+    color: rgb(29, 5, 41);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
   }
   
   li a:hover {
-    background-color: #4d8020;
+    background-color: #5a9428;
   }
 
 
