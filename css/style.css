@@ -48,7 +48,43 @@ li {
     background-color: #5a9428;
   }
 
+.table1{
+  padding-left: 33%;
+}
 
+#addedTrims{
+  padding: 100px 25px 25px 25px;
+  padding-left: 12%;
+}
 
+td, th {
+  border: 1px solid #090909;
+  text-align: left;
+  padding: 8px;
+}
+
+#addedTrimColour{
+  padding: 100px 25px 25px 25px;
+  padding-left: 4.5%;
+}
+
+#trimsTable{
+  padding-left: 9%;
+}
+
+#toolTrims{
+  padding-left: 14%;
+  padding-top: 100px;
+  padding-bottom: 10px;
+}
+
+#toolTrimTable{
+  padding-left: 10%;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
 
 
