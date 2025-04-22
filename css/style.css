@@ -81,12 +81,12 @@ td, th {
   margin-left: auto;
   margin-right: auto;
 }
-
-#trimscolour{
-    padding-top: 100px;
-  }
   
 #tableColour{
+  padding-top: 25px;
+  padding-right: 25px;
+  padding-bottom: 25px;
+  padding-left: 25px;
   background-color: #5a9428;
   margin-top: 25px;
   margin-bottom: 25px;
